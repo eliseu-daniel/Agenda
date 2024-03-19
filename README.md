@@ -1,1 +1,1 @@
-Projeto feito na aula de CSharp no curso de ADS
+Projeto feito na aula de C# no curso de ADS
